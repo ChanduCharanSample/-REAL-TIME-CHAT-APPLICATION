@@ -82,3 +82,9 @@ Message Timestamps: Include timestamps alongside each message to indicate when t
 Conclusion:
 The Real-Time Chat Application enables simple, live communication with a focus on message sending. Built with Node.js and React, this app provides a smooth, real-time messaging experience suitable for basic chat needs like customer support or team communication.
 
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cecacb09-cf3e-49c2-baa4-678cfe192e6c)
+
