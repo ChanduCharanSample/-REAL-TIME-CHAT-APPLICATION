@@ -84,7 +84,12 @@ The Real-Time Chat Application enables simple, live communication with a focus o
 
 
 
-OUTPUT
+OUTPUT:
+
 
 ![Image](https://github.com/user-attachments/assets/cecacb09-cf3e-49c2-baa4-678cfe192e6c)
+
+
+
+![Image](https://github.com/user-attachments/assets/6d8932c9-8366-43f7-a737-3b90feb5483a)
 
